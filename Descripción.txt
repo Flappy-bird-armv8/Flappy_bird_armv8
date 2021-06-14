@@ -1,0 +1,2 @@
+Un flappy bird infinito y pseudo-aleatorio que se juega solo.
+Flappy bird es un juego en el cuál un pájaro trata de volar entre filas de tubos sin chocar con el borde de los mismos.
